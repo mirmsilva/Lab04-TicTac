@@ -1,13 +1,21 @@
 ﻿<Properties StartupConfiguration="{80F1FF1A-A4C2-4581-95A8-B3703285B635}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab04_TicTacToe/Classes/Game.cs">
+    <Files>
+      <File FileName="Lab04_TicTacToe/Program.cs" Line="2" Column="1" />
+      <File FileName="Lab04_TicTacToe/Classes/Player.cs" />
+      <File FileName="Lab04_TicTacToe/Classes/Game.cs" Line="35" Column="49" />
+      <File FileName="Lab04_TicTacToe/Classes/Position.cs" />
+      <File FileName="Lab04_TicTacToe/Classes/Board.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab04_TicTacToe" expanded="True">
             <Node name="Lab04_TicTacToe" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Classes" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="Classes" expanded="True">
+                <Node name="Game.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

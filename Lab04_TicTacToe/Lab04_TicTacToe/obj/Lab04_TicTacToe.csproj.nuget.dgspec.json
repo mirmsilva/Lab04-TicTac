@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miriamsilva/Documents/projects/codefellows/401/seattle-dotnet-401n13/class-04/lab/starter-code/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {}
+    "/Users/miriamsilva/Documents/projects/codefellows/401/Lab04-TicTac/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {}
   },
   "projects": {
-    "/Users/miriamsilva/Documents/projects/codefellows/401/seattle-dotnet-401n13/class-04/lab/starter-code/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {
+    "/Users/miriamsilva/Documents/projects/codefellows/401/Lab04-TicTac/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miriamsilva/Documents/projects/codefellows/401/seattle-dotnet-401n13/class-04/lab/starter-code/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
+        "projectUniqueName": "/Users/miriamsilva/Documents/projects/codefellows/401/Lab04-TicTac/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
         "projectName": "Lab04_TicTacToe",
-        "projectPath": "/Users/miriamsilva/Documents/projects/codefellows/401/seattle-dotnet-401n13/class-04/lab/starter-code/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
+        "projectPath": "/Users/miriamsilva/Documents/projects/codefellows/401/Lab04-TicTac/Lab04_TicTacToe/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
         "packagesPath": "/Users/miriamsilva/.nuget/packages/",
-        "outputPath": "/Users/miriamsilva/Documents/projects/codefellows/401/seattle-dotnet-401n13/class-04/lab/starter-code/Lab04_TicTacToe/Lab04_TicTacToe/obj/",
+        "outputPath": "/Users/miriamsilva/Documents/projects/codefellows/401/Lab04-TicTac/Lab04_TicTacToe/Lab04_TicTacToe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/miriamsilva/.config/NuGet/NuGet.Config"
