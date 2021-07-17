@@ -32,35 +32,45 @@ namespace Lab04_TicTacToe.Classes
         /// <returns>Winner</returns>
         public Player Play()
         {
-            Player currentPlayer = NextPlayer();
             int turnCount = 1;
+
             while (CheckForWinner(Board) == false)
             {
-                if (turnCount < 9)
+                Player currentPlayer = NextPlayer();
+
+                if (turnCount < 10)
                 {
-                    //This Displays
+
                     Board.DisplayBoard();
-                    //current player taking a turn
+
                     currentPlayer.TakeTurn(Board);
-                    //current player declares his position
-                    currentPlayer.GetPosition(Board);
-                    Position currentPosition = currentPlayer.GetPosition(Board);
-                    //set the selected position to the player's marker
-                    Board.GameBoard[currentPosition.Row, currentPosition.Column] = PlayerOne.Marker;
-                    //check if player won
+
                     CheckForWinner(Board);
+
+                    SwitchPlayer();
                     turnCount++;
 
-                    //Switch Player
-                    SwitchPlayer();
-                    Board.DisplayBoard();
+
                 }
                 else
                 {
-                    Console.WriteLine("It's a draw!");
+                    Console.WriteLine("Game is a draw");
+                    Environment.Exit(1);
                 }
 
+
             }
+            if (PlayerOne.IsTurn == true)
+            {
+                Console.WriteLine($"{PlayerTwo.Name} Wins");
+                Board.DisplayBoard();
+            }
+            else
+            {
+                Console.WriteLine($"{PlayerOne.Name} Wins");
+                Board.DisplayBoard();
+            }
+
             return Winner;
 
             //TODO: Complete this method and utilize the rest of the class structure to play the game.

@@ -1,0 +1,11 @@
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\obj\Release\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\obj\Release\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfo.cs
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\obj\Release\netcoreapp2.1\Lab04_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\bin\Release\netcoreapp2.1\Lab04_TicTacToe.deps.json
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\bin\Release\netcoreapp2.1\Lab04_TicTacToe.runtimeconfig.json
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\bin\Release\netcoreapp2.1\Lab04_TicTacToe.runtimeconfig.dev.json
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\bin\Release\netcoreapp2.1\Lab04_TicTacToe.dll
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\bin\Release\netcoreapp2.1\Lab04_TicTacToe.pdb
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\obj\Release\netcoreapp2.1\Lab04_TicTacToe.dll
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\obj\Release\netcoreapp2.1\Lab04_TicTacToe.pdb
+C:\Users\kyleketcham\Source\Repos\Lab04-TicTac\Lab04_TicTacToe\Lab04_TicTacToe\obj\Release\netcoreapp2.1\Lab04_TicTacToe.genruntimeconfig.cache

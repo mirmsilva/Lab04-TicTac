@@ -7,7 +7,6 @@ namespace Lab04_TicTacToe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             StartGame();
         }
 
@@ -31,8 +30,10 @@ namespace Lab04_TicTacToe
             playerTwo.IsTurn = false;
 
 
+            // create a new game
+            Game newGame = new Game (playerOne, playerTwo);
+            newGame.Play();
+
         }
-
-
     }
 }
